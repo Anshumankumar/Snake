@@ -2,7 +2,7 @@
 *.slo
 *.lo
 *.o
-*.out
+
 
 # Compiled Dynamic libraries
 *.so
@@ -14,4 +14,3 @@
 *.a
 
 # Programs
-*.cpp
