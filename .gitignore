@@ -13,4 +13,5 @@
 *.la
 *.a
 
-# Programs
+# Program Files
+bin
